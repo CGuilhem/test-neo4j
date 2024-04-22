@@ -1,0 +1,182 @@
+[
+  {
+    "type": "node",
+    "id": "0",
+    "labels": ["metierHW"],
+    "properties": {
+      "pref": "Combattant",
+      "uri": "http://www.rj.com/Commun/Post/Combattant"
+    }
+  },
+  {
+    "type": "node",
+    "id": "1",
+    "labels": ["metierHW"],
+    "properties": {
+      "pref": "Forfaitiste",
+      "uri": "http://www.rj.com/Commun/Post/Forfaitiste"
+    }
+  },
+  {
+    "type": "node",
+    "id": "2",
+    "labels": ["metierHW"],
+    "properties": {
+      "pref": "Directeur des affaires internationales",
+      "uri": "http://www.rj.com/Commun/Post/Directeur_affaires_internationales"
+    }
+  },
+  {
+    "type": "node",
+    "id": "3",
+    "labels": ["metierHW"],
+    "properties": {
+      "pref": "Commandant marine",
+      "uri": "http://www.rj.com/Commun/Post/Commandant_marine"
+    }
+  },
+  {
+    "type": "node",
+    "id": "4",
+    "labels": ["metierHW"],
+    "properties": {
+      "pref": "Directeur des affaires publiques",
+      "uri": "http://www.rj.com/Commun/Post/Directeur_affaires_publiques"
+    }
+  },
+  {
+    "type": "node",
+    "id": "5",
+    "labels": ["metierHW"],
+    "properties": {
+      "pref": "Staffeur",
+      "uri": "http://www.rj.com/Commun/Post/Staffeur"
+    }
+  },
+  {
+    "type": "node",
+    "id": "6",
+    "labels": ["metierHW"],
+    "properties": {
+      "pref": "Télémarketeur",
+      "uri": "http://www.rj.com/Commun/Post/Telemarketeur"
+    }
+  },
+  {
+    "type": "node",
+    "id": "7",
+    "labels": ["metierHW"],
+    "properties": {
+      "pref": "Économiste d'entreprise",
+      "uri": "http://www.rj.com/Commun/Post/Economiste_entreprise"
+    }
+  },
+  {
+    "type": "node",
+    "id": "8",
+    "labels": ["metierHW"],
+    "properties": {
+      "pref": "Conseiller d'accueil",
+      "uri": "http://www.rj.com/Commun/Post/Conseiller_accueil"
+    }
+  },
+  {
+    "type": "node",
+    "id": "9",
+    "labels": ["metierHW"],
+    "properties": {
+      "pref": "Responsable d'affaires bancaires",
+      "uri": "http://www.rj.com/Commun/Post/Responsable_affaires_bancaires"
+    }
+  },
+  {
+    "type": "node",
+    "id": "10",
+    "labels": ["metierHW"],
+    "properties": {
+      "pref": "Chargé d'études avant-projet",
+      "uri": "http://www.rj.com/Commun/Post/Technicien_ensemble_avant_projet"
+    }
+  },
+  {
+    "type": "node",
+    "id": "11",
+    "labels": ["metierHW"],
+    "properties": {
+      "pref": "Second de rayon",
+      "uri": "http://www.rj.com/Commun/Post/Chef_rayon_adjoint"
+    }
+  },
+  {
+    "type": "node",
+    "id": "12",
+    "labels": ["metierHW"],
+    "properties": {
+      "pref": "Intendant",
+      "uri": "http://www.rj.com/Commun/Post/Intendant"
+    }
+  },
+  {
+    "type": "node",
+    "id": "13",
+    "labels": ["metierHW"],
+    "properties": {
+      "pref": "Responsable d'agence santé à domicile",
+      "uri": "http://www.rj.com/Commun/Post/Responsable_agence_sante_domicile"
+    }
+  },
+  {
+    "type": "node",
+    "id": "14",
+    "labels": ["metierHW"],
+    "properties": {
+      "pref": "Criminologue",
+      "uri": "http://www.rj.com/Commun/Post/Criminologue"
+    }
+  },
+  {
+    "type": "node",
+    "id": "15",
+    "labels": ["metierHW"],
+    "properties": {
+      "pref": "Employé des remontées mécaniques",
+      "uri": "http://www.rj.com/Commun/Post/Employe_remontee"
+    }
+  },
+  {
+    "type": "node",
+    "id": "16",
+    "labels": ["metierHW"],
+    "properties": {
+      "pref": "Technicien de planification",
+      "uri": "http://www.rj.com/Commun/Post/Technicien_planification"
+    }
+  },
+  {
+    "type": "node",
+    "id": "17",
+    "labels": ["metierHW"],
+    "properties": {
+      "pref": "Technicien en organisation du travail",
+      "uri": "http://www.rj.com/Commun/Post/Technicien_organisation"
+    }
+  },
+  {
+    "type": "node",
+    "id": "18",
+    "labels": ["metierHW"],
+    "properties": {
+      "pref": "Directeur des investissements",
+      "uri": "http://www.rj.com/Commun/Post/Directeur_investissements"
+    }
+  },
+  {
+    "type": "node",
+    "id": "19",
+    "labels": ["metierHW"],
+    "properties": {
+      "pref": "DDCS",
+      "uri": "http://www.rj.com/Commun/Post/DDCS"
+    }
+  }
+]
